@@ -1,2 +1,4 @@
-# scrabble-CS50-
-Game of scrabble 
+# scrabble (CS50)
+
+##### CS50 Week 2 Lab
+* Game of scrabble 
